@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Program Projects"
+		},
+		{
+			"path": "../Public Program Projects"
+		},
+		{
+			"path": "../Local_Develop_Environment"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"test.C": "cpp"
+		}
+	}
+}
